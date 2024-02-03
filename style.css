@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aqua;
+    color: black;
+}
+ul{
+    display: flex;
+    position: relative;
+    left: -50px;
+}
+
+li{
+list-style: none;
+margin-left: 2rem;
+
+}
+input{
+    margin-left: 5px;
+    height: 30px;
+    width: 150px; 
+}
+img{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    left: -50px;
+}

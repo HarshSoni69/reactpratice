@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  color: #000;
+  background-color: #0ff;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+}
+
+ul {
+  display: flex;
+  position: relative;
+  left: -50px;
+}
+
+li {
+  margin-left: 2rem;
+  list-style: none;
+}
+
+input {
+  width: 150px;
+  height: 30px;
+  margin-left: 5px;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+  position: relative;
+  left: -50px;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
