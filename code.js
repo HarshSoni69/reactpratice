@@ -2,31 +2,27 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faMagnifyingGlass} from '@fortawesome/free-solid-svg-icons';
-import {faUser} from '@fortawesome/free-solid-svg-icons'
-import logo from './logo.png'
+import {faUser} from '@fortawesome/free-solid-svg-icons';
+import food from './mylogo.png'
 
-
-const List = () => {
- return  (
-    <ul id="List">
-      <li>About</li>
-      <li>Contact US</li>
-      <li>Support</li>
-      <li>Help</li>
-    </ul>
+const Title=()=>{
+  return (
+    <img src="{food}" alt="image logo"/>
   )
-};
-const HeaderConatainer=()=>{
- return (
-    <div id="container">
-       <img src={logo} alt="logo" />
-      {List()}
-      <div>
-      <FontAwesomeIcon icon={faMagnifyingGlass} />
-        <input type="text" placeholder="..Search anything"></input>
-        </div>
-        <FontAwesomeIcon icon={faUser} />
+}
 
+const HeaderComponet=()=>{
+ return (
+    <div className="header">
+      <Title/>
+      <div className="nav-items">
+        <ul>
+          <li> Home </li>
+          <li> About </li>
+          <li> Contact </li>
+          <li> Cart </li>
+        </ul>
+      </div>
     </div>
 
 
@@ -34,4 +30,4 @@ const HeaderConatainer=()=>{
 };
 
 const root = document.getElementById("hello");
-ReactDOM.render(<HeaderConatainer />, root);
+ReactDOM.render(<HeaderComponet />, root);

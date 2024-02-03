@@ -1,4 +1,11 @@
-9990
+9999
+94C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\semver\functions\eq.js133513513137819988 0
+157C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133513513136875432 0
+112C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133513513137864962 0
+139C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\utils.js133513513145012069 0
+103C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\transformer-svg\LICENSE133513513132516614 0
+123C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133513513141527222 0
+71C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\package.json133514246920006780 0
 108C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\css-tree\lib\lexer\generic-urange.js133513513146085438 0
 81C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\commander133513513136711788 1
 103C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\reporter-dev-server\src133513513139404774 1
@@ -24,6 +31,7 @@
 123C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faUniversity.d.ts133513559917350218 0
 84C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\loose-envify133513513659804329 1
 81C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@lezer\lr133513513136711788 1
+68C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\style.css133513580715411604 0
 93C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\browserslist\index.js133513513134866180 0
 97C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\css-select\lib\general.js133513513137864962 0
 114C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\posthtml\node_modules\posthtml-parser\dist133513513136323050 1
@@ -32,14 +40,6 @@
 76C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\package-lock.json133513560485166365 0
 106C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\css-tree\lib\syntax\node\Number.js133513513146759899 0
 131C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-svgo\node_modules\css-select\package.json133513513138220516 0
-68C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\style.css133513580715411604 0
-94C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\semver\functions\eq.js133513513137819988 0
-157C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133513513136875432 0
-112C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133513513137864962 0
-139C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\utils.js133513513145012069 0
-103C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\transformer-svg\LICENSE133513513132516614 0
-123C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133513513141527222 0
-71C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\package.json133513560484628072 0
 129C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faArrowsTurnToDots.d.ts133513559904708750 0
 120C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\caniuse-lite\data\features\css-grid-animation.js133513513145876713 0
 69C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\.gitignore133514218582318402 0
@@ -92,6 +92,13 @@
 108C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\esm\_to_property_key.js133513513145840002 0
 103C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\posthtml-parser\dist\index.d.ts133513513136592065 0
 121C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faDownLong.d.ts133513559907922244 0
+98C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\source-map-js\package.json133513513138003508 0
+131C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133513513140365991 0
+63C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\dist133514247815397363 1
+132C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\dist\csstree.js133513513141201980 0
+119C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faUserLock.js133513559902687294 0
+110C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\caniuse-lite\data\features\push-api.js133513513151347541 0
+90C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\prop-types\LICENSE133513560483885647 0
 77C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@lmdb133513560484628072 1
 134C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faExternalLinkSquareAlt.d.ts133513559908208815 0
 127C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Function.cjs133513513141527222 0
@@ -321,7 +328,6 @@
 118C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\csso\node_modules\css-tree\cjs\utils\index.cjs133513513143007214 0
 134C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faSchoolCircleExclamation.js133513559898700073 0
 77C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\chalk133513513135870975 1
-95C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\is-fullwidth-code-point133513513134344831 1
 98C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\css-tree\cjs\syntax\pseudo133513513143210066 1
 122C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faChessKnight.js133513559888370229 0
 90C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\chrome-trace-event133513513135690599 1
@@ -471,6 +477,7 @@
 112C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\caniuse-lite\data\features\pdf-viewer.js133513513151021058 0
 119C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faLocust.d.ts133513559911822380 0
 119C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133513513145362374 0
+95C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\is-fullwidth-code-point133513513134344831 1
 123C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Hash.cjs133513513142012102 0
 101C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\semver\functions\satisfies.js133513513141366260 0
 100C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\node-addon-api\noexcept.gypi133513513134933671 0
@@ -1520,7 +1527,6 @@
 122C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faCalendarDay.js133513559887722432 0
 102C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\regenerator-runtime\runtime.js133513513133689366 0
 108C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\caniuse-lite\data\features\webnfc.js133513513153358440 0
-124C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faMinusCircle.d.ts133513559912414719 0
 113C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faTv.js133513559902286770 0
 91C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\svgo\lib\builtin.js133513513138841313 0
 115C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\utils\test\input\config\config.json133513513143519236 0
@@ -1679,7 +1685,6 @@
 93C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\source-map-js\LICENSE133513513132512788 0
 121C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faRoadLock.d.ts133513559914392509 0
 97C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\htmlnano\lib\htmlnano.mjs133513513143671809 0
-98C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\source-map-js\package.json133513513138003508 0
 95C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\source-map-js\README.md133513513138348971 0
 121C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faChalkboard.js133513559888200189 0
 108C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\css-tree\cjs\lexer\generic-const.cjs133513513142240417 0
@@ -2009,8 +2014,8 @@
 125C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\react-dom\umd\react-dom-server.browser.development.js133513513944719979 0
 128C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\react-dom\umd\react-dom-server.browser.production.min.js133513513944719979 0
 121C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133513513143346134 0
-124C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\react-dom\umd\react-dom-test-utils.production.min.js133513513944968774 0
 108C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\css-tree\lib\syntax\node\Operator.js133513513146779896 0
+124C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\react-dom\umd\react-dom-test-utils.production.min.js133513513944968774 0
 98C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\msgpackr\dist\index.min.js133513513138348971 0
 127C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faHandMiddleFinger.js133513559893056039 0
 115C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faStar.js133513559900387863 0
@@ -2084,11 +2089,6 @@
 128C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faChevronCircleUp.d.ts133513559906589492 0
 92C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\json5\lib\parse.d.ts133513513139013455 0
 94C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\mdn-data\l10n\index.js133513513134906724 0
-131C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133513513140365991 0
-132C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\dist\csstree.js133513513141201980 0
-119C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faUserLock.js133513559902687294 0
-110C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\caniuse-lite\data\features\push-api.js133513513151347541 0
-90C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\prop-types\LICENSE133513560483885647 0
 131C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\csso\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133513513145012069 0
 91C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\core\README.md133513513138230479 0
 90C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\domelementtype\lib133513513137232980 1
@@ -2972,6 +2972,7 @@
 135C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\package.json133513513138220516 0
 123C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faCommentAlt.d.ts133513559907220709 0
 105C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\is-fullwidth-code-point\readme.md133513513134508286 0
+89C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\dist\index.runtime.2222ffb9.js133514247815251611 0
 98C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\js-yaml\lib\type\binary.js133513513133269868 0
 129C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133513513135197490 0
 97C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\js-yaml\lib\type\float.js133513513137365573 0
@@ -3122,6 +3123,7 @@
 148C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic-urange.js133513513142366692 0
 112C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\src\_is_native_function.mjs133513513148753112 0
 84C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\entities\lib133513513140187275 1
+93C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\dist\index.runtime.2222ffb9.js.map133514247815397363 0
 93C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\htmlnano\CHANGELOG.md133513513143250076 0
 128C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faFireFlameCurved.d.ts133513559909110621 0
 108C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\css-tree\cjs\syntax\atrule\media.cjs133513513143519236 0
@@ -3536,6 +3538,7 @@
 123C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@babel\code-frame\node_modules\ansi-styles\index.js133513513133020237 0
 96C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\domhandler\lib\node.d.ts133513513136875432 0
 112C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faF.js133513559891037818 0
+86C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\dist\index.a46def16.css.map133514247815397363 0
 97C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\css-select\lib\index.d.ts133513513143519236 0
 108C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\css-tree\cjs\syntax\atrule\index.cjs133513513143007214 0
 128C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\csso\node_modules\css-tree\lib\generator\token-before.js133513513147009945 0
@@ -5948,8 +5951,8 @@
 105C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\src\_await_value.mjs133513513148285018 0
 121C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs133513513148295027 0
 120C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\src\_class_apply_descriptor_set.mjs133513513148325025 0
-118C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\src\_class_private_field_init.mjs133513513148405437 0
 85C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\graph133513513139558767 1
+118C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\src\_class_private_field_init.mjs133513513148405437 0
 123C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs133513513148405437 0
 120C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\src\_class_private_field_update.mjs133513513148405437 0
 125C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faGlassMartini.d.ts133513559909529344 0
@@ -5996,6 +5999,7 @@
 137C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\compile.js133513513134800528 0
 99C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\src\_using.mjs133513513149065336 0
 101C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\scripts\build.js133513513146016445 0
+82C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\dist\index.a46def16.css133514247815251611 0
 102C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\scripts\errors.js133513513146085438 0
 115C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faWorm.js133513559903620712 0
 119C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@swc\helpers\esm\_apply_decorated_descriptor.js133513513144016325 0
@@ -8038,6 +8042,7 @@
 124C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faCakeCandles.d.ts133513559906014267 0
 122C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faCakeCandles.js133513559887668429 0
 123C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faCalculator.d.ts133513559906024849 0
+85C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\dist\index.60f659d7.js.map133514247815397363 0
 121C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faCalculator.js133513559887678407 0
 121C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faCalendar.d.ts133513559906024849 0
 119C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faCalendar.js133513559887688413 0
@@ -8907,6 +8912,7 @@
 121C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faMinimize.d.ts133513559912404546 0
 119C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faMinimize.js133513559896061830 0
 118C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faMinus.d.ts133513559912404546 0
+124C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faMinusCircle.d.ts133513559912414719 0
 122C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faMinusCircle.js133513559896071880 0
 124C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faMinusSquare.d.ts133513559912424554 0
 122C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faMinusSquare.js133513559896081872 0
@@ -9291,6 +9297,7 @@
 118C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faRuler.d.ts133513559914506362 0
 116C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faRuler.js133513559898626660 0
 126C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faRulerCombined.d.ts133513559914528027 0
+81C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\dist\logo.86240919.png133514247815151178 0
 124C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faRulerCombined.js133513559898636720 0
 128C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faRulerHorizontal.d.ts133513559914528027 0
 126C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\@fortawesome\free-solid-svg-icons\faRulerVertical.d.ts133513559914528027 0
@@ -9989,3 +9996,5 @@
 85C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\.bin\svgo.cmd133513513153901804 0
 85C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\.bin\svgo.ps1133513513153901804 0
 99C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\node_modules\.bin\update-browserslist-db133513513153901804 0
+81C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\dist\index.60f659d7.js133514247815251611 0
+74C:\Users\Acer\OneDrive\Desktop\javascriptprojects\reachapp\dist\index.html133514247815251611 0

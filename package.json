@@ -2,8 +2,9 @@
   "name": "reachapp",
   "version": "1.0.0",
   "description": "hello ",
-  "main": "code.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "harsh",

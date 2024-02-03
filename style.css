@@ -1,33 +1,13 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-#container{
+.header{
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: aqua;
-    color: black;
+    justify-content: space-between;
+    margin: 10px;
+    border: 1px solid black;
 }
-ul{
+.nav-items > ul{
+    list-style: none;
     display: flex;
-    position: relative;
-    left: -50px;
 }
-
-li{
-list-style: none;
-margin-left: 2rem;
-
-}
-input{
-    margin-left: 5px;
-    height: 30px;
-    width: 150px; 
-}
-img{
-    height: 70px;
-    width: 70px;
-    position: relative;
-    left: -50px;
+.nav-items > ul >li{
+    padding: 10px;
 }
